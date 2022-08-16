@@ -37,6 +37,10 @@
   }
 }
 
-button {
-  font-size: calc(10px + 2vmin);
+.main{
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  
 }
